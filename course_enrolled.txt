@@ -1,0 +1,54 @@
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name:                                                CP
+Faculty_name: Murli
+Course Code: CS_520
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name:                                                CP
+Faculty_name: Murli
+Course Code: CS_520
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name: CP
+Faculty_name: Murli
+Course Code: CS_520
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name: CP
+Faculty_name: Murli
+Course Code: CS_520
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name: CP
+Faculty_name: Murli
+Course Code: CS_520
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name: CP
+Faculty_name: Murli
+Course Code: CS_520
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name: CP
+Faculty_name: Murli
+Course Code: CS_520
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name: CP
+Faculty_name: Murli
+Course Code: CS_520
+Student_id: MT@1
+ID: 5
+Faculty_id: iiitb@1
+Name: CP
+Faculty_name: Murli
+Course Code: CS_520
